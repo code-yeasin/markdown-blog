@@ -8,7 +8,7 @@ A fast, SEO-optimized personal blog built using **Next.js**, **Velite.js**, and 
 ---
 
 ## 🔗 Live Demo
-👉 [Live Demo – Markdown Blog](https://code-yeasin-blog.vercel.app/)  
+👉 [Live Demo – Markdown Blog](https://markdown-blog-amber.vercel.app/)  
 👉 [Starter GitHub Repository](https://github.com/Code-Yeasin/markdown-blog)
 
 ---
