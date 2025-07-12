@@ -26,13 +26,13 @@ A fast, SEO-optimized personal blog built using **Next.js**, **Velite.js**, and 
 ## 📸 Screenshots
 
 ### 🏠 Home
-![Home Page](project-images/Home-Big.png)
+![Home Page](/home-page.png)
 
 ### 📄 About
-![About Page](project-images/About-Big.png)
+![About Page](/about-page.pngabout-page.png)
 
 ### 📩 Contact
-![Contact Page](project-images/Contact-Big.png)
+![Contact Page](/contact-page.png)
 
 _For more images, check the `project-images` folder in the repository._
 
