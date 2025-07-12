@@ -29,7 +29,7 @@ A fast, SEO-optimized personal blog built using **Next.js**, **Velite.js**, and 
 ![Home Page](/home-page.png)
 
 ### 📄 About
-![About Page](/about-page.pngabout-page.png)
+![About Page](/about-page.png)
 
 ### 📩 Contact
 ![Contact Page](/contact-page.png)

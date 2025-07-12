@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
+    output: 'export',            // <-- Add this line for static export
+    
     // othor next config here...
     compiler: {
       removeConsole: process.env.NODE_ENV === 'production' ? true : false,
