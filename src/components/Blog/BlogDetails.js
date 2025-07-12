@@ -3,10 +3,7 @@ import Link from "next/link";
 import React from "react";
 import { slug } from "github-slugger";
 import dynamic from 'next/dynamic';
-const ViewCounter = dynamic(() => import('./ViewCounter'), {
-  ssr: false,
-});
-
+import ViewCounter from "./ViewCounterClient"; // <-- import client wrapper
 
 const BlogDetails = ({ blog, slug: blogSlug }) => {
   return (

@@ -2,6 +2,9 @@
 module.exports = {
     output: 'export',            // <-- Add this line for static export
     
+    images: {
+      unoptimized: true,         // <-- Add this to disable Next.js image optimization
+    },
     // othor next config here...
     compiler: {
       removeConsole: process.env.NODE_ENV === 'production' ? true : false,
