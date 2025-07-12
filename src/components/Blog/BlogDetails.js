@@ -2,7 +2,11 @@ import { format, parseISO } from "date-fns";
 import Link from "next/link";
 import React from "react";
 import { slug } from "github-slugger";
-import ViewCounter from "./ViewCounter";
+import dynamic from 'next/dynamic';
+const ViewCounter = dynamic(() => import('./ViewCounter'), {
+  ssr: false,
+});
+
 
 const BlogDetails = ({ blog, slug: blogSlug }) => {
   return (
